@@ -2,7 +2,7 @@
 
 I'm Michelle :) Here's a little about me:
 
-- 🤖 I am currently a freshman at **Carnegie Mellon University** majoring in Electrical and Computer Engineering and minoring in Robotics
+- 🤖 I am a freshman at **Carnegie Mellon University** majoring in Electrical and Computer Engineering and minoring in Robotics
 - 🌖 I am also an incoming Software Engineer Intern at **Astrobotic**, where I will develop software for lunar rovers
 - 💻 I love collaborating on team projects and competing in hackathons
 - 📚 I am proficient in Java, C++, Python, HTML, CSS, and JavaScript
