@@ -2,9 +2,8 @@
 
 #### I'm Michelle :) I am currently a freshman at Carnegie Mellon University majoring in Electrical and Computer Engineering and minoring in Robotics.
 
-Feel free to reach out if you want to chat!
-https://www.linkedin.com/in/michelle-a-bryson/ - automatic!
-[LinkedIn](https://www.linkedin.com/in/michelle-a-bryson/)
+Feel free to email me at mbryson@andrew.cmu.edu or connect with me on [LinkedIn](https://www.linkedin.com/in/michelle-a-bryson/) if you want to chat!
+
 
 
 <!--
