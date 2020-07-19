@@ -3,6 +3,7 @@
 I'm Michelle :) Here's a little about me:
 
 - I am a freshman at **Carnegie Mellon University** majoring in Electrical and Computer Engineering and minoring in Robotics
+- I am currently a student at the Computer Science Summer Institute at **Google**
 - I am also an incoming Software Engineer Intern at **Astrobotic**, where I will develop software for lunar rovers
 - I love collaborating on team projects and competing in hackathons
 - I am proficient in Java, C++, Python, HTML, CSS, and JavaScript
