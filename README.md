@@ -5,7 +5,7 @@
 - I am a freshman at **Carnegie Mellon University** majoring in Electrical and Computer Engineering and minoring in Robotics
 - I am currently a student at the Computer Science Summer Institute at **Google**
 - I am also an incoming Software Engineer Intern at **Astrobotic**, where I will develop software for lunar rovers
-- I love collaborating on team projects and competing in hackathons
+- I love collaborating on team projects and competing in hackathons- check out my [Devpost](https://devpost.com/mbryson562)!
 - I am proficient in Java, C++, Python, HTML, CSS, and JavaScript
 
 Feel free to email me at mbryson@andrew.cmu.edu or connect with me on [LinkedIn](https://www.linkedin.com/in/michelle-a-bryson/) if you want to chat!
