@@ -1,6 +1,6 @@
-### Hi there! 👩🏻‍💻
+## Hi there! 👩🏻‍💻
 
-#### I'm Michelle :) Here's a little about me:
+### I'm Michelle :) Here's a little about me:
 
 - I am a freshman at **Carnegie Mellon University** majoring in Electrical and Computer Engineering and minoring in Robotics
 - I am currently a student at the Computer Science Summer Institute at **Google**
