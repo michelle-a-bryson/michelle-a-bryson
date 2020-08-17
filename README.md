@@ -9,6 +9,8 @@
 - I am proficient in Java, C++, Python, HTML, CSS, and JavaScript
 - I enjoy playing the violin, painting, going on bike rides, and learning foreign languages
 
+#### Check out my [portfolio](https://michelle-a-bryson.github.io/portfolio/) to see some of the projects I've been working on!
+
 Feel free to email me at mbryson@andrew.cmu.edu or connect with me on [LinkedIn](https://www.linkedin.com/in/michelle-a-bryson/) if you want to chat!
 
 
