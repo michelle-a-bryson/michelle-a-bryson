@@ -4,9 +4,10 @@
 
 - I am a freshman at **Carnegie Mellon University** majoring in Electrical and Computer Engineering and minoring in Robotics
 - I am currently a Software Engineering Intern at **Astrobotic**
+- I volunteer as an Frontend Developer for **UNICEF**
 - I am an alumna of the Computer Science Summer Institute at **Google**
 - I love collaborating on team projects and competing in hackathons- check out my [Devpost](https://devpost.com/mbryson562)!
-- I am proficient in Java, C++, Python, HTML, CSS, and JavaScript
+- I am proficient in Java, C++, Python, JavaScript, and HTML/CSS
 - I enjoy playing the violin, painting, going on bike rides, and learning foreign languages
 
 #### Check out my [portfolio](https://michelle-a-bryson.github.io/portfolio/) to see some of the projects I've been working on!
