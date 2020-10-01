@@ -1,5 +1,19 @@
 ## Hi there! 👩🏻‍💻
 
+<!-- Actual text -->
+
+[![LinkedIn][3.2]][3] [![Twitter][1.2]][1]
+
+<!-- Icons -->
+
+[1.2]: http://i.imgur.com/wWzX9uB.png (twitter icon without padding)
+[2.2]: https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/linkedin-3-16.png (LinkedIn icon without padding)
+
+<!-- Links to your social media accounts -->
+
+[1]: https://twitter.com/Martin_Heinz_
+[2]: https://www.linkedin.com/in/michelle-a-bryson/
+
 ### I'm Michelle :) Here's a little about me:
 
 - I am a freshman at **Carnegie Mellon University** majoring in Electrical and Computer Engineering and minoring in Robotics
@@ -15,8 +29,6 @@
 Feel free to email me at mbryson@andrew.cmu.edu or connect with me on [LinkedIn](https://www.linkedin.com/in/michelle-a-bryson/) if you want to chat!
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=michelle-a-bryson&exclude_repo=Students-for-Black-Lives&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-
-![](https://img.shields.io/badge/<WORD_ON_LEFT>-<WORD_ON_RIGHT>-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=2bbc8a)
 
 
 
