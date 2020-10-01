@@ -14,6 +14,7 @@
 
 Feel free to email me at mbryson@andrew.cmu.edu or connect with me on [LinkedIn](https://www.linkedin.com/in/michelle-a-bryson/) if you want to chat!
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=michelle-a-bryson&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 
 <!--
