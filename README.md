@@ -23,12 +23,12 @@ Feel free to email me at mbryson@andrew.cmu.edu or connect with me on [LinkedIn]
 
 ## Skills
 
-<img src="https://img.shields.io/badge/java-%23ED8B00.svg?&style=for-the-badge&logo=java&logoColor=white" />
-<img src="https://img.shields.io/badge/python-%233776AB.svg?&style=flat-square&logo=python&logoColor=white" />
-<img src="https://img.shields.io/badge/c++%20-%2300599C.svg?&style=for-the-badge&logo=c%2B%2B&logoColor=white" />
-<img src="https://img.shields.io/badge/javascript%20-%23323330.svg?&style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" />
-<img src="https://img.shields.io/badge/html-%23239120.svg?&style=flat-square&logo=html5&logoColor=white" />
-<img src="https://img.shields.io/badge/css-%23239120.svg?&style=flat-square&logo=css3&logoColor=white" />
+<img align="left" src="https://img.shields.io/badge/java-%23ED8B00.svg?&style=for-the-badge&logo=java&logoColor=white" />
+<img align="left" src="https://img.shields.io/badge/python-%233776AB.svg?&style=flat-square&logo=python&logoColor=white" />
+<img align="left" src="https://img.shields.io/badge/c++%20-%2300599C.svg?&style=for-the-badge&logo=c%2B%2B&logoColor=white" />
+<img align="left" src="https://img.shields.io/badge/javascript%20-%23323330.svg?&style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" />
+<img align="left" src="https://img.shields.io/badge/html-%23239120.svg?&style=flat-square&logo=html5&logoColor=white" />
+<img align="left" src="https://img.shields.io/badge/css-%23239120.svg?&style=flat-square&logo=css3&logoColor=white" />
 
 <!--
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=michelle-a-bryson&exclude_repo=drawing-chrome-extension&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
