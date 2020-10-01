@@ -1,12 +1,9 @@
 ## Hi there! 👩🏻‍💻
 
-<p align='center'>
+<p>
   
   <a href="https://www.linkedin.com/in/michelle-a-bryson/">
     <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>&nbsp;&nbsp;
-  <a href="mailto:mbryson@andrew.cmu.edu">
-    <img src="https://img.shields.io/badge/gmail-D14836?&style=for-the-badge&logo=gmail&logoColor=white" />
   </a>&nbsp;&nbsp;
   	
 </p>
@@ -25,7 +22,7 @@
 
 Feel free to email me at mbryson@andrew.cmu.edu or connect with me on [LinkedIn](https://www.linkedin.com/in/michelle-a-bryson/) if you want to chat!
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=michelle-a-bryson&exclude_repo=Students-for-Black-Lives&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=michelle-a-bryson&exclude_repo=Students-for-Black-Lives,AstroNav&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 
 
