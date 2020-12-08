@@ -32,7 +32,6 @@ Feel free to email me at mbryson@andrew.cmu.edu or connect with me on [LinkedIn]
 <img align="left" height = "30px" src="https://img.shields.io/badge/css-%23239120.svg?&style=flat-square&logo=css3&logoColor=white" />
 -->
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=michelle-a-bryson&exclude_repo=drawing-chrome-extension&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 
 
