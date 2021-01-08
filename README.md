@@ -12,7 +12,6 @@
 
 - I am a freshman at **Carnegie Mellon University** majoring in Electrical and Computer Engineering and minoring in Robotics
 - I am part of the Spring 2021 cohort of **NASA** L'SPACE Mission Concept Academy
-- I volunteer at **UNICEF** as an App Developer
 - I love collaborating on team projects and competing in hackathons- check out my [Devpost](https://devpost.com/mbryson562)!
 - I enjoy playing the violin, painting, going on bike rides, and learning foreign languages
 
