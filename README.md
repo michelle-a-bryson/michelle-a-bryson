@@ -10,10 +10,10 @@
 
 ### Here's a little about me:
 
-- I am a rising junior at Carnegie Mellon University majoring in Electrical and Computer Engineering
-- I am a former STEP Intern at Google and I am an alumnus of Google CSSI
+- I am a junior at Carnegie Mellon University majoring in Electrical and Computer Engineering
+- I am a two-time STEP Intern and incoming SWE Intern at Google
 - I love collaborating on team projects and competing in hackathons- check out my [Devpost](https://devpost.com/mbryson562)!
-- I enjoy playing the violin, painting, going on bike rides, and learning foreign languages
+- In my free time enjoy painting, baking with friends, and learning foreign languages
 
 Feel free to email me at mbryson@andrew.cmu.edu or connect with me on [LinkedIn](https://www.linkedin.com/in/michelle-a-bryson/) if you want to chat!
 <!--
