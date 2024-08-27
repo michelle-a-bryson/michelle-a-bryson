@@ -10,8 +10,8 @@
 
 ### Here's a little about me:
 
-- I am a junior at Carnegie Mellon University majoring in Electrical and Computer Engineering
-- I am a former and incoming SWE Intern at Google
+- I am a senior at Carnegie Mellon University majoring in Electrical and Computer Engineering
+- I am a two-time SWE Intern at Google
 - I love collaborating on team projects and competing in hackathons- check out my [Devpost](https://devpost.com/michelle-a-bryson)!
 - In my free time enjoy exploring the outdoors, painting, baking with friends, and learning foreign languages
 
